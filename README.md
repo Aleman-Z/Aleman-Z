@@ -1,5 +1,6 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+### Welcome visitor number ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green) ! 👋 
 
+My name is Adrian Aleman-Zapata. I'm a Phd candidate at Genzel lab. 
 
 - 🔭 I’m currently working on: __Hippocampal ripples during sleep and their interaction with the neocortex.__
 - 🌱 I’m currently learning: __Systems Neuroscience, machine learning and neuroengineering.__
