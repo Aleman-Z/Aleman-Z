@@ -1,5 +1,10 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+
+
+- 🔭 I’m currently working on: __Hippocampal ripples during sleep and their interaction with the neocortex.__
+- 🌱 I’m currently learning: __Systems Neuroscience, machine learning and neuroengineering.__
+- 📫 How to reach me: adrian.alemanzapata@donders.ru.nl
+
 <!--
 **Aleman-Z/Aleman-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
