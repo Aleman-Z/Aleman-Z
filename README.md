@@ -1,6 +1,9 @@
-### Welcome! 👋  ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+### Welcome! 👋 
 
 My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](www.genzellab.com). 
+
+![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+
 <details>
   - <summary>GitHub Stats 📊</summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=Aleman-Z&show_icons=true&theme=calm&layout=compact&custom_title=Aleman-Z GitHub stats">
