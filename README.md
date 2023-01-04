@@ -19,6 +19,9 @@ My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](https://www
   <a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<p>
+  <a href="https://scholar.google.com/citations?user=vBGkDD8AAAAJ&hl=en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Google%20-Scholar-yellow" /></a> 
+</p>
 
 <!--
 **Aleman-Z/Aleman-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
