@@ -16,11 +16,10 @@ My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](https://www
 - 📫 How to reach me: adrian.alemanzapata@donders.ru.nl
 
 
-<p>
-  <a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+<a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-%231DA1F2.svg?style=for-the-badge&logo=ResearchGate&logoColor=white&color=success)](https://www.researchgate.net/profile/Adrian-Aleman-Zapata)
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%231DA1F2.svg?style=for-the-badge&logo=ResearchGate&logoColor=white&color=success)](https://www.researchgate.net/profile/Adrian-Aleman-Zapata)
+
+
 
 <!--
 **Aleman-Z/Aleman-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
