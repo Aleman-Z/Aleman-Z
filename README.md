@@ -3,7 +3,6 @@
 My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](https://www.genzellab.com/). 
 
 ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
-<a href="https://scholar.google.com/citations?user=vBGkDD8AAAAJ&hl=en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Google%20-Scholar-yellow" /></a> 
 
 <details>
   - <summary>GitHub Stats 📊</summary>
@@ -16,7 +15,7 @@ My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](https://www
 - 📫 How to reach me: adrian.alemanzapata@donders.ru.nl
 
 
-<a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-%231DA1F2.svg?style=for-the-badge&logo=ResearchGate&logoColor=white&color=success)](https://www.researchgate.net/profile/Adrian-Aleman-Zapata)
+<a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-%231DA1F2.svg?style=for-the-badge&logo=ResearchGate&logoColor=white&color=success)](https://www.researchgate.net/profile/Adrian-Aleman-Zapata) [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-%231DA1F2.svg?style=for-the-badge&logo=GoogleScholar&logoColor=blue&color=red)](https://scholar.google.com/citations?user=vBGkDD8AAAAJ&hl=en)
 
 
 
