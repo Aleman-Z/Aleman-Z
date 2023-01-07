@@ -1,4 +1,4 @@
-### Welcome! 👋 
+## Welcome! :wave: 
 
 My name is Adrian Aleman-Zapata. I'm a Phd candidate at [Genzel lab](https://www.genzellab.com/). 
 
