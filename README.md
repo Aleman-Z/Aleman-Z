@@ -1,6 +1,6 @@
 ## Welcome! :wave: 
 
-My name is Adrián Alemán-Zapata. I'm a PhD candidate at [Genzel lab](https://www.genzellab.com/). 
+My name is Adrián Alemán-Zapata. I'm a researcher at [Genzel lab](https://www.genzellab.com/). 
 
 ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
 
