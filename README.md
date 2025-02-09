@@ -20,7 +20,7 @@ My name is Adrián Alemán-Zapata. I'm a Neuroscientist and an Engineer.
 
 ## Projects I've led  
 
-Here are some repositories of projects I have led, hosted in my lab's GitHub account:  
+Here are some repositories of projects I have led during my PhD, hosted in my lab's GitHub account:  
 
 - [RGS14](https://github.com/genzellab/RGS14) - LFP and single unit analyses to study the effect of increased cortical analysis in memory consolidation.
 - [CBD](https://github.com/genzellab/CBD) - LFP analysis to study the effect of Cannabidiol on memory and sleep.
