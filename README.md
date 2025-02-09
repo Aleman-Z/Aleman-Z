@@ -1,6 +1,6 @@
 ## Welcome! :wave: 
 
-My name is Adrián Alemán-Zapata. I'm an Engineer and a Neuroscientist. 
+My name is Adrián Alemán-Zapata. I'm a Neuroscientist and an Engineer. 
 
 ![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
 
