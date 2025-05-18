@@ -1,43 +1,59 @@
-## Welcome! :wave: 
+## 👋 Welcome to my GitHub!
 
-My name is Adrián Alemán-Zapata. I'm a Neuroscientist and an Engineer. 
+I'm **Adrián Alemán-Zapata**, a Neuroscientist and Engineer passionate about memory, sleep, and brain-inspired technology.
 
-![](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
+I explore how the brain consolidates memories during sleep using electrophysiology and computational tools. My work bridges neuroscience and engineering, with a focus on hippocampal-neocortical interactions, closed-loop neurostimulation, and AI for behavior analysis.
 
-<details>
-  - <summary>GitHub Stats 📊</summary>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Aleman-Z&show_icons=true&theme=calm&layout=compact&custom_title=Aleman-Z GitHub stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aleman-Z&theme=calm">
-</details>
+![Profile Views](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
 
-- 🔭 I’m currently working on: __Hippocampal ripples during sleep and their interaction with the neocortex.__
-- 🌱 I’m currently learning: __Systems Neuroscience, machine learning and neuroengineering.__
-- 📫 How to reach me: adrian.alemanzapata@donders.ru.nl
+---
+
+## 🧠 Featured Research Projects
+
+These are repositories from my PhD research, hosted in my lab’s GitHub account:
+
+- [**RGS14**](https://github.com/genzellab/RGS14)  
+  *Analyzing LFP and single-unit data to understand cortical involvement in memory consolidation.*
+
+- [**CBD**](https://github.com/genzellab/CBD)  
+  *Studying the effects of Cannabidiol on sleep-dependent memory using LFP analyses.*
+
+- [**Fast and Slow HFOs**](https://github.com/genzellab/Fast_and_slow_hfos)  
+  *Dissecting hippocampal-prefrontal oscillatory dynamics during sleep.*
+
+---
+
+## 🔭 Current Focus
+
+- Investigating **hippocampal ripples during sleep** and their interaction with the neocortex  
+- Learning more about **systems neuroscience, machine learning**, and **neuroengineering**
+- Building new tools for early detection of neuromotor diseases.
 
 
-<a href="https://www.linkedin.com/in/aleman-zapata/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-%231DA1F2.svg?style=for-the-badge&logo=ResearchGate&logoColor=white&color=success)](https://www.researchgate.net/profile/Adrian-Aleman-Zapata) [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-%231DA1F2.svg?style=for-the-badge&logo=GoogleScholar&logoColor=blue&color=red)](https://scholar.google.com/citations?user=vBGkDD8AAAAJ&hl=en)
+---
 
+## 🧩 Interests
 
-## Projects I've led  
+- Memory consolidation and sleep neurophysiology  
+- AI for behavior analysis  
+- Brain-inspired computing and wearable neurotech
 
-Here are some repositories of projects I have led during my PhD, hosted in my lab's GitHub account:  
+---
 
-- [RGS14](https://github.com/genzellab/RGS14) - LFP and single unit analyses to study the effect of increased cortical analysis in memory consolidation.
-- [CBD](https://github.com/genzellab/CBD) - LFP analysis to study the effect of Cannabidiol on memory and sleep.
-- [Fast_and_slow_hfos](https://github.com/genzellab/RGS14) - Analysis of sleep brain oscillations in hippocampus, prefrontal and parietal cortex.
+## 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleman-zapata/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Adrian-Aleman-Zapata">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=vBGkDD8AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white"/>
+  </a>
+</p>
 
-<!--
-**Aleman-Z/Aleman-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📬 **Email**: adrian.alemanzapata@donders.ru.nl  
+🤝 Open to collaborations and new opportunities!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
