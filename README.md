@@ -13,7 +13,7 @@ I explore how the brain consolidates memories during sleep using electrophysiolo
 These are repositories from my PhD research, hosted in my lab’s GitHub account:
 
 - [**RGS14**](https://github.com/genzellab/RGS14)  
-  *Analyzing LFP and single-unit data to understand cortical involvement in memory consolidation.*
+  *Analyzing LFP and single-unit data to understand cortical plasticity involvement in memory consolidation.*
 
 - [**CBD**](https://github.com/genzellab/CBD)  
   *Studying the effects of Cannabidiol on sleep-dependent memory using LFP analyses.*
