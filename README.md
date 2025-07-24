@@ -55,5 +55,5 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
 </p>
 
 📬 **Email**: adrian.alemanzapata@donders.ru.nl  
-🤝 Open to collaborations and new opportunities!
+🤝 Open to collaborations!
 
