@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-I'm **Adrián Alemán-Zapata**, a Neuroscientist and Engineer passionate about memory, sleep, and brain-inspired technology.
+I'm **Dr. Adrián Alemán-Zapata**, a Neuroscientist and Engineer passionate about memory, sleep, and brain-inspired technology.
 
 I explore how the brain consolidates memories during sleep using electrophysiology and computational tools. My work bridges neuroscience and engineering, with a focus on hippocampal-neocortical interactions, closed-loop neurostimulation, and AI for behavior analysis.
 
