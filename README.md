@@ -38,7 +38,7 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
 
 - Memory consolidation and sleep neurophysiology  
 - AI for behavior analysis  
-- Brain-inspired computing and wearable neurotech
+- Electrophysiology
 
 ---
 
