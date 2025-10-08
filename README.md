@@ -21,6 +21,9 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
 - [**Fast and Slow HFOs**](https://github.com/genzellab/Fast_and_slow_hfos)  
   *Dissecting hippocampal-prefrontal oscillatory dynamics during sleep.*
 
+- [**HM_RAT (Hexmaze Rat Project)**](https://github.com/genzellab/HM_RAT)  
+  *Pipeline for synchronization, spike sorting, and LFP event detection in the Hexmaze Rat experiment, developed under my supervision.*
+
 ---
 
 ## 🔭 Current Focus
@@ -28,7 +31,6 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
 - Investigating **hippocampal ripples during sleep** and their interaction with the neocortex  
 - Learning more about **systems neuroscience, machine learning**, and **neuroengineering**
 - Building new tools for early detection of neuromotor diseases.
-
 
 ---
 
@@ -56,4 +58,3 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
 
 📬 **Email**: adrian.alemanzapata@donders.ru.nl  
 🤝 Open to collaborations!
-
