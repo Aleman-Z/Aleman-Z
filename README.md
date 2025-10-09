@@ -22,7 +22,7 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
   *Dissecting hippocampal-prefrontal oscillatory dynamics during sleep.*
 
 - [**HM_RAT (Hexmaze Rat Project)**](https://github.com/genzellab/HM_RAT)  
-  *Pipeline for synchronization, spike sorting, and LFP event detection in the Hexmaze Rat experiment, developed under my supervision.*
+  *End-to-end pipeline for synchronizing electrophysiology and behavior, including multi-camera video stitching, ICA-based LED synchronization, GPU-accelerated YOLOv3 tracking, spike sorting, and LFP event detection—developed under my supervision.*
 
 ---
 
