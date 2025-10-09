@@ -1,48 +1,49 @@
 ## 👋 Welcome to my GitHub!
 
-I'm **Dr. Adrián Alemán-Zapata**, a Neuroscientist and Engineer passionate about memory, sleep, and brain-inspired technology.
-
-I explore how the brain consolidates memories during sleep using electrophysiology and computational tools. My work bridges neuroscience and engineering, with a focus on hippocampal-neocortical interactions, closed-loop neurostimulation, and AI for behavior analysis.
+I’m **Dr. Adrián Alemán-Zapata**, a Neuroscientist and Engineer passionate about **sleep, memory, and technology**.  
+My work bridges neuroscience and engineering — from rodent electrophysiology and behavioral tracking to AI systems for neurotech and health applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aleman-Z&color=green)
 
 ---
 
-## 🧠 Featured Research Projects
+## 🧠 Research Focus
 
-These are repositories from my PhD research, hosted in my lab’s GitHub account:
+I study how the brain consolidates memories during sleep by analyzing hippocampal–cortical dynamics.  
+My research integrates **large-scale electrophysiology**, **signal processing**, and **engineering** to uncover how neural oscillations (ripples, spindles, deltas) support learning and memory.
+
+**Keywords:** Sleep • Memory • Ripple Subtypes • LFP • Spike Sorting • Machine Learning • Ephys 
+
+---
+
+## 🔬 Featured Research Repositories
+
+These open-source projects were developed during my PhD and collaborations at the **Donders Institute** (Genzel Lab).
 
 - [**RGS14**](https://github.com/genzellab/RGS14)  
-  *Analyzing LFP and single-unit data to understand cortical plasticity involvement in memory consolidation.*
+  *Analyzing LFP and single-unit data to uncover cortical plasticity’s role in memory consolidation.*
 
 - [**CBD**](https://github.com/genzellab/CBD)  
-  *Studying the effects of Cannabidiol on sleep-dependent memory using LFP analyses.*
+  *Exploring how Cannabidiol affects sleep architecture and memory consolidation via LFP analyses.*
 
 - [**Fast and Slow HFOs**](https://github.com/genzellab/Fast_and_slow_hfos)  
-  *Dissecting hippocampal-prefrontal oscillatory dynamics during sleep.*
+  *Dissecting hippocampal–prefrontal oscillatory dynamics during sleep.*
 
 - [**HM_RAT (Hexmaze Rat Project)**](https://github.com/genzellab/HM_RAT)  
-  *End-to-end pipeline for synchronizing electrophysiology and behavior, including multi-camera video stitching, ICA-based LED synchronization, GPU-accelerated YOLOv3 tracking, spike sorting, and LFP event detection—developed under my supervision.*
+  *Comprehensive behavioral–electrophysiology pipeline integrating multi-camera video stitching, Video-ephys synchronization, GPU-accelerated YOLOv3 behavioural tracking, spike sorting, and LFP event detection — developed and supervised by me.*
 
 ---
 
-## 🔭 Current Focus
+## 🧭 Interests
 
-- Investigating **hippocampal ripples during sleep** and their interaction with the neocortex  
-- Learning more about **systems neuroscience, machine learning**, and **neuroengineering**
-- Building new tools for early detection of neuromotor diseases.
-
----
-
-## 🧩 Interests
-
-- Memory consolidation and sleep neurophysiology  
+- Systems neuroscience & sleep research  
+- Computational neurophysiology  
 - AI for behavior analysis  
-- Electrophysiology
+- Neurotechnology 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aleman-zapata/">
@@ -56,5 +57,5 @@ These are repositories from my PhD research, hosted in my lab’s GitHub account
   </a>
 </p>
 
-📬 **Email**: adrian.alemanzapata@donders.ru.nl  
+📧 **Email:** adrian.alemanzapata@donders.ru.nl  
 🤝 Open to collaborations!
