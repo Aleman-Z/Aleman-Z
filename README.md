@@ -113,9 +113,6 @@ These repositories reflect my journey in **systems neuroscience and computationa
   *For leading MonkeyEye, an AI system for primate health and behavior monitoring.*  
 - 🤖 **Huawei AI1000 Fellowship (2024)**  
   *Selected among the top 100 globally for advanced AI training in China.*  
-- 🌍 **Mitacs Globalink Fellowship (2014)**  
-  *Competitive international research internship program in Canada.*
-
 ---
 
 <p align="center">
