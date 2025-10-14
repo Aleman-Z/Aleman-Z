@@ -6,7 +6,7 @@
 <!-- You can replace the banner above with your own — for example, one that combines brains, circuits, and AI imagery -->
 
 <h1 align="center">🧠 Dr. Adrián Alemán-Zapata 🧬</h1>
-<h3 align="center">Neuroscientist | Engineer | AI Innovator</h3>
+<h3 align="center">Neuroscientist | Engineer | Developer </h3>
 
 <p align="center">
   <a href="https://github.com/Aleman-Z">
