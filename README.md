@@ -108,7 +108,7 @@ These repositories reflect my journey in **systems neuroscience and computationa
 
 - 🧠 **PhD cum laude** – Donders Institute, Radboud University  
 - 🥇 **DMN Prize 2025 – Best Neuroscience Thesis in the Netherlands**  
-  *Awarded by the Dutch Neuroscience Meeting for outstanding PhD research on sleep and memory consolidation.*  
+  *Awarded by the Dutch Neuroscience Meeting for best PhD thesis.*  
 - 🚀 **Best Overall Award – MIT Media Lab MoodEng AI Challenge (2025)**  
   *For leading MonkeyEye, an AI system for primate health and behavior monitoring.*  
 - 🤖 **Huawei AI1000 Fellowship (2024)**  
