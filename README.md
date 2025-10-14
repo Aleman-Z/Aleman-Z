@@ -1,4 +1,8 @@
-[![banner.png](https://i.postimg.cc/wMnvZY0S/neurotech-banner.png)](https://postimg.cc/wMnvZY0S)
+<p align="center">
+  <img src="banner.png" alt="Neurotech Banner" />
+</p>
+
+
 <!-- You can replace the banner above with your own — for example, one that combines brains, circuits, and AI imagery -->
 
 <h1 align="center">🧠 Dr. Adrián Alemán-Zapata 🧬</h1>
