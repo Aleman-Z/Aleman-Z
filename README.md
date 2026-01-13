@@ -116,5 +116,5 @@ These repositories reflect my journey in **systems neuroscience and computationa
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sleep%20is%20not%20the%20absence%20of%20consciousness%20%E2%80%94%20it%E2%80%99s%20the%20brain%E2%80%99s%20most%20elegant%20algorithm%20for%20learning.&author=Adri%C3%A1n%20Alem%C3%A1n%20Zapata" alt="custom quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sleep%20is%20not%20the%20absence%20of%20consciousness%2C%20it%27s%20the%20brain%27s%20most%20elegant%20algorithm%20for%20learning.&author=Adri%C3%A1n%20Alem%C3%A1n%20Zapata" alt="custom quote"/>
 </p>
