@@ -32,7 +32,7 @@ My work bridges **brain science and AI**, from **rodent electrophysiology and be
 
 💡 *“My goal is to make cutting-edge neuroscience accessible through technology.”*  
 
-- 🌎 Based in **Mexico / The Netherlands**  
+- 🌎 Based in **Toronto,Canada**  
 - 💤 Researching **how sleep consolidates memory** through neural oscillations  
 - ⚙️ Developing **AI tools for animal behavior, health, and neurotech**  
 - 🎯 Interests: Sleep • Memory • Closed-Loop Stimulation • Machine Learning • NeuroAI  
